@@ -4,7 +4,6 @@ import (
 	"go_fiber/models"
 	"log"
 	"os"
-
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"
 	"gorm.io/gorm/logger"
